@@ -2,7 +2,7 @@
 #### iOS Developer
 ![iOS Developer](https://ajmendez.github.io/assets/helloworld_finished.png)
 
-I'm Serkan from Turkey, and I developing iOS application with Swift. I really enjoy Swift languages, App Frameworks and all of relation to Apple, as well as interested data structures and algorithms.
+I'm Serkan from Turkey, and I developing iOS application with Swift. I really enjoy Swift language, App Framework and all of relation to Apple, as well as interested data structures and algorithms.
 
 
 📱 Swift / UIKit / SwiftUI 
