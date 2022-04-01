@@ -1,6 +1,6 @@
 ### Hi there 👋, Serkan Kara
 #### iOS Developer
-![iOS Developer](https://www.aryvart.com/images/sat.jpg)
+![iOS Developer](https://ajmendez.github.io/assets/helloworld_finished.png)
 
 I'm Serkan from Turkey, and I developing iOS application with Swift. I really enjoy Swift languages, App Frameworks and all of relation to Apple, as well as interested data structures and algorithms.
 
