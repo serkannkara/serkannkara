@@ -8,7 +8,6 @@ I'm Serkan from Turkey and I developing iOS application with Swift. I really enj
 📱 Swift / UIKit / SwiftUI 
 
 - 🔭 I’m currently working at Invio 
-- 🌱 I’m currently learning Swift 
 - 📫 How to reach me: serkankarraa@gmail.com 
 
 #### Social Media
