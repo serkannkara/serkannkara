@@ -7,7 +7,7 @@ I'm Serkan from Turkey and I developing iOS application with Swift. I really enj
 
 📱 Swift / UIKit / SwiftUI 
 
-- 🔭 I’m currently working at Invio 
+- 🔭 I’m currently working at Eteration 
 - 📫 How to reach me: serkankarraa@gmail.com 
 
 #### Social Media
