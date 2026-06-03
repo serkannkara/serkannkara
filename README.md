@@ -163,47 +163,6 @@
  - 📱 **User experience** - Great products feel magical to use
  - 🌍 **Open source** - Share knowledge, help others grow
  
-
- ## 🤝 Let's Connect
- 
- <div align="center">
- 
- <p><i>Always interested in connecting with fellow builders, founders, and AI enthusiasts!</i></p>
- 
- <table>
-   <tr>
-     <td align="center" width="25%">
-       <a href="https://www.linkedin.com/in/serkan-kara-b09a19207/">
-         <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48" width="48" /><br />
-         <b>LinkedIn</b>
-       </a>
-     </td>
-     <td align="center" width="25%">
-       <a href="https://twitter.com/serkankarraa">
-         <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="48" width="48" /><br />
-         <b>Twitter</b>
-       </a>
-     </td>
-     <td align="center" width="25%">
-       <a href="https://medium.com/@serkankaraa">
-         <img src="https://cdn.simpleicons.org/medium/000000" height="48" width="48" /><br />
-         <b>Medium</b>
-       </a>
-     </td>
-     <td align="center" width="25%">
-       <a href="mailto:serkankarraa@gmail.com">
-         <img src="https://cdn.simpleicons.org/gmail/D14836" height="48" width="48" /><br />
-         <b>Email</b>
-       </a>
-     </td>
-   </tr>
- </table>
- 
- **💬 Open to:** Collaboration • Consulting • Speaking Opportunities
- 
- </div>
- 
- ---
  
  <div align="center">
  
