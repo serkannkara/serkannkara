@@ -1,34 +1,118 @@
-# Hi there 👋
+# 👋 Hi, I'm Serkan Kara
 
-I'm Serkan Kara.
+### AI-Native Product Builder • Senior iOS Software Engineer
 
-AI-Native Product Builder and Senior iOS Software Engineer focused on creating intelligent products with Swift, SwiftUI, and modern AI technologies.
+Building intelligent products at the intersection of AI, Mobile, and Automation.
 
-Currently building AI-powered applications, exploring agentic systems, and shipping products that combine mobile engineering, automation, and user-centric design.
+I specialize in creating AI-powered applications, agentic systems, and scalable mobile products using Swift, SwiftUI, and modern AI technologies.
 
-## Interests
+---
+
+## 🚀 Published Products
+
+<table>
+<tr>
+<td align="center">
+<a href="https://apps.apple.com/tr/app/chatme-ai-chatbot-assistant/id6762047715">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/placeholder.png/120x120bb.png" width="80"/>
+<br/>
+<b>ChatMe AI</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://apps.apple.com/tr/app/eidolon-ai-creative-studio/id6759823086">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/placeholder.png/120x120bb.png" width="80"/>
+<br/>
+<b>Eidolon AI</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://apps.apple.com/tr/app/safetab-prime-for-safari/id6755912282">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/placeholder.png/120x120bb.png" width="80"/>
+<br/>
+<b>SafeTab</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://apps.apple.com/tr/app/guardify-call-sms-blocker/id6755356477">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/placeholder.png/120x120bb.png" width="80"/>
+<br/>
+<b>Guardify</b>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://apps.apple.com/tr/app/lingoquest-ai-language-tutor/id6751499635">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/placeholder.png/120x120bb.png" width="80"/>
+<br/>
+<b>LingoQuest</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://apps.apple.com/tr/app/coverly-ai-language-trainer/id6744375605">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/placeholder.png/120x120bb.png" width="80"/>
+<br/>
+<b>Coverly</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://apps.apple.com/tr/app/scannerx-ai-pdf-doc-toolkit/id6502879569">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/placeholder.png/120x120bb.png" width="80"/>
+<br/>
+<b>ScannerX</b>
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
 
 - AI-Native Products
 - Agentic AI Systems
-- iOS Development
-- Swift & SwiftUI
-- Product Engineering
 - Mobile Architecture
+- Product Engineering
+- AI Automation
 - Growth & Monetization
 
-## Tech Stack
+---
 
-Swift • SwiftUI • UIKit • Node.js • Next.js • Firebase • CloudKit • OpenAI • Gemini • Claude • RevenueCat • REST APIs
+## 🛠️ Tech Stack
 
-## Current Focus
+Swift
+SwiftUI
+UIKit
+Node.js
+Next.js
+Firebase
+OpenAI
+Gemini
+Claude
 
-Building products at the intersection of AI, mobile, and automation.
+---
+
+## 📊 GitHub Stats
+
+￼
+
+￼
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn
+•
+Medium
+•
+X
 
 📫 serkankarraa@gmail.com
-
-#### Social Media
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/serkan-kara-b09a19207//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/serkankarraa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@serkankaraa)  
-
-
