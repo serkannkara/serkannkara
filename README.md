@@ -40,48 +40,7 @@
    }
  };
  ```
- 
- ---
- 
- ## 🎯 Featured Projects
- 
- <table>
-   <tr>
-     <td width="50%">
-       <h3>🤖 AgentForge</h3>
-       <p><i>Multi-Agent AI Orchestration Framework</i></p>
-       <p>
-         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-         <img src="https://img.shields.io/badge/AI_Agents-667eea?style=flat-square" />
-       </p>
-       <p>Production-ready multi-agent system with planning, research, reasoning, and critique capabilities. Built for autonomous AI workflows.</p>
-       <p>
-         <a href="https://github.com/serkankara/AgentForge">
-           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
-         </a>
-       </p>
-     </td>
-     <td width="50%">
-       <h3>🗣️ Coverly</h3>
-       <p><i>AI-Powered Language Learning Platform</i></p>
-       <p>
-         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-         <img src="https://img.shields.io/badge/SwiftUI-0066FF?style=flat-square&logo=swift&logoColor=white" />
-         <img src="https://img.shields.io/badge/AI-10b981?style=flat-square" />
-       </p>
-       <p>Real-time AI conversation practice with personalized learning paths. Features voice recognition, pronunciation feedback, and adaptive difficulty.</p>
-       <p>
-         <a href="https://apps.apple.com/tr/app/coverly-ai-language-trainer/id6744375605">
-           <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
-         </a>
-       </p>
-     </td>
-   </tr>
- </table>
- 
- ---
- 
+
  ## 📱 App Store Portfolio
  
  <div align="center">
@@ -133,25 +92,6 @@
  <img src="https://img.shields.io/badge/RevenueCat-FF6B6B?style=for-the-badge" height="40" />
  
  </div>
- 
- ---
- 
- ## 📊 GitHub Stats
- 
- <div align="center">
- 
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=serkankara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=667eea&icon_color=10b981&text_color=c9d1d9&count_private=true&include_all_commits=true" />
- <img width="48%" src="https://streak-stats.demolab.com/?user=serkankara&theme=tokyonight&hide_border=true&background=1a1a2e&ring=667eea&fire=10b981&currStreakLabel=667eea" />
- 
- </div>
- 
- <div align="center">
- 
- <img src="https://github-profile-trophy.vercel.app/?username=serkankara&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
- 
- </div>
- 
- ---
  
  <details>
  <summary><b>💼 Professional Experience</b></summary>
@@ -223,18 +163,7 @@
  - 📱 **User experience** - Great products feel magical to use
  - 🌍 **Open source** - Share knowledge, help others grow
  
- ---
- 
- ## 📝 Latest Blog Posts
- 
- - [Building Agentic AI Systems: From Chatbots to Autonomous Agents](https://medium.com/@serkankaraa)
- - [SwiftUI + AI: Creating Real-Time Conversation Interfaces](https://medium.com/@serkankaraa)
- - [The Future of Mobile: AI-Native Applications](https://medium.com/@serkankaraa)
- 
- ➡️ [More articles on Medium](https://medium.com/@serkankaraa)
- 
- ---
- 
+
  ## 🤝 Let's Connect
  
  <div align="center">
