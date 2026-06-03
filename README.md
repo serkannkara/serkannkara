@@ -18,7 +18,7 @@ Currently building AI-powered applications, exploring agentic systems, and shipp
 
 ## Tech Stack
 
-Swift • SwiftUI • UIKit • Firebase • CloudKit • OpenAI • Gemini • RevenueCat • REST APIs
+Swift • SwiftUI • UIKit • Node.js • Next.js • Firebase • CloudKit • OpenAI • Gemini • Claude • RevenueCat • REST APIs
 
 ## Current Focus
 
