@@ -21,25 +21,29 @@
  
  ---
  
- ## 🚀 What I Do
- 
- ```typescript
- const serkan = {
-   role: "AI-Native Product Builder & Senior iOS Engineer",
-   focus: ["Agentic AI", "Multi-Agent Systems", "Mobile Products"],
-   building: {
-     agentForge: "Multi-Agent AI Orchestration Framework",
-     coverly: "AI Language Learning with Real-Time Conversations",
-     portfolio: "7 Published Apps • 50K+ Downloads"
-   },
-   techStack: {
-     mobile: ["Swift", "SwiftUI", "UIKit"],
-     backend: ["Node.js", "TypeScript", "Next.js"],
-     ai: ["OpenAI", "Claude", "Gemini", "Multi-Agent Systems"],
-     cloud: ["Firebase", "CloudKit", "RevenueCat"]
-   }
- };
- ```
+## 🚀 Current Mission
+
+```yaml
+name: Serkan Kara
+
+role:
+  - AI-Native Product Builder
+  - Senior iOS Software Engineer
+
+building:
+  - AgentForge
+  - Coverly
+  - Multi-Agent Systems
+
+shipped:
+  apps: 7
+  downloads: 50000+
+
+focus:
+  - Agentic AI
+  - Product Engineering
+  - Mobile Platforms
+```
 
  ## 📱 App Store Portfolio
  
