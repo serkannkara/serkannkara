@@ -1,14 +1,30 @@
-### Hi there 👋, Serkan Kara
-#### Senior iOS Software Engineer
-![Senior iOS Software Engineer](https://ajmendez.github.io/assets/helloworld_finished.png)
+# Hi there 👋
 
-I'm Serkan from Turkey and I developing iOS application with Swift. I really enjoy Swift language, App Framework and all of relation to Apple, as well as interested data structures and algorithms.
+I'm Serkan Kara.
 
+AI-Native Product Builder and Senior iOS Software Engineer focused on creating intelligent products with Swift, SwiftUI, and modern AI technologies.
 
-📱 Swift / UIKit / SwiftUI 
+Currently building AI-powered applications, exploring agentic systems, and shipping products that combine mobile engineering, automation, and user-centric design.
 
-- 🔭 I’m currently working at DefineX 
-- 📫 How to reach me: serkankarraa@gmail.com 
+## Interests
+
+- AI-Native Products
+- Agentic AI Systems
+- iOS Development
+- Swift & SwiftUI
+- Product Engineering
+- Mobile Architecture
+- Growth & Monetization
+
+## Tech Stack
+
+Swift • SwiftUI • UIKit • Firebase • CloudKit • OpenAI • Gemini • RevenueCat • REST APIs
+
+## Current Focus
+
+Building products at the intersection of AI, mobile, and automation.
+
+📫 serkankarraa@gmail.com
 
 #### Social Media
 
