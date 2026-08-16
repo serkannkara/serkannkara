@@ -30,16 +30,12 @@ role:
   - AI-Native Product Builder
   - Senior Mobile Software Engineer
 
-building:
-  - AgentForge
-  - Coverly
-  - Multi-Agent Systems
-
 shipped:
-  apps: 7
+  apps: 13
   downloads: 50000+
 
 focus:
+  - A-Native Product Systems
   - Agentic AI
   - Product Engineering
   - Mobile Platforms
