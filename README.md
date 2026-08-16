@@ -70,12 +70,12 @@ focus:
  
 **Mobile Development**
 
-<img src="https://skillicons.dev/icons?i=swiftui,xcode,kotlin,androidstudio" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=swift,kotlin,androidstudio" height="40" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/SwiftUI-0066FF?style=for-the-badge&logo=swift&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge" height="40" />
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="40" />
- 
+
  **Backend & Web**
  
  <img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,react" height="40" />
