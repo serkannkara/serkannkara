@@ -5,7 +5,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=AI-Native+Product+Builder;Senior+Mobile+Software+Engineer;7+Apps+%E2%80%A2+50K%2B+Downloads+%E2%80%A2+4.8%E2%AD%90" alt="Typing SVG" /></a>
  
  <p>
-   <img src="https://img.shields.io/badge/📱_Apps-7-667eea?style=for-the-badge&labelColor=1a1a2e" />
+   <img src="https://img.shields.io/badge/📱_Apps-13-667eea?style=for-the-badge&labelColor=1a1a2e" />
    <img src="https://img.shields.io/badge/⬇️_Downloads-50K+-10b981?style=for-the-badge&labelColor=1a1a2e" />
    <img src="https://img.shields.io/badge/⭐_Rating-4.8-fbbf24?style=for-the-badge&labelColor=1a1a2e" />
  </p>
